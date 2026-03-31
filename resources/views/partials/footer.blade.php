@@ -1,0 +1,1 @@
+<footer class="h-300 bg-primary"><h2>laravel-movies-collection</h2></footer>
